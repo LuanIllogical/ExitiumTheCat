@@ -1,1 +1,1 @@
-### I have no idea what to put here so hi
+Beginner programmer, mostly focused in Terraria Plugins and Mods, if you want to contact me my Discord is ExitiumTheCat#7801
