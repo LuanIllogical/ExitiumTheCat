@@ -9,6 +9,7 @@ My name's Exitium, but you probably already know that, I'm a beginner programmer
   <br/><br/>
   <b>Currently working on:</b><br>
   <br/>
+  <a href="https://github.com/ExitiumTheCat/WeaponAspects"><img src="https://img.shields.io/badge/-Weapon%20Aspects-blue"></a>
   <a href="https://github.com/ExitiumTheCat/ScaryScarecrow"><img src="https://img.shields.io/badge/-Scary%20Scarecrow-yellow"></a>
   <img src="https://img.shields.io/badge/-And%202%20Other%20Projects-lightgrey">
   <br/><br/>
