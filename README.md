@@ -10,8 +10,9 @@ My name's Exitium, but you probably already know that, I'm a beginner programmer
   <b>Currently working on:</b><br>
   <br/>
   <a href="https://github.com/ExitiumTheCat/WeaponAspects"><img src="https://img.shields.io/badge/-Weapon%20Aspects-blue"></a>
+  <a href="https://github.com/ExitiumTheCat/MurderMystery"><img src="https://img.shields.io/badge/-Murder%20Mystery-red"></a>
   <a href="https://github.com/ExitiumTheCat/ScaryScarecrow"><img src="https://img.shields.io/badge/-Scary%20Scarecrow-yellow"></a>
-  <img src="https://img.shields.io/badge/-And%202%20Other%20Projects-lightgrey">
+  <img src="https://img.shields.io/badge/-And%201%20Other%20Project-lightgrey">
   <br/><br/>
   If you want to contact me, my Discord Tag is ExitiumTheCat#7801, alternatively you can join my <a href="https://discord.gg/2sK62kX">Discord Server</a>
   <br/><br/>
