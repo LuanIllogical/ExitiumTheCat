@@ -2,7 +2,7 @@
 
 <p align="center">
 My name's Exitium, but you probably already know that, I'm a beginner programmer focusing mostly on Terraria Plugins and Mods, although I have done some different things like Discord bots, they're not many.<br/><br/>
-  <b>Languages I know:</b><br>
+  <b>Languages I've used:</b><br>
   <br/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
