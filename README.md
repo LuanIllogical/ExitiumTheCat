@@ -11,7 +11,7 @@ My name's Luan, also known as ExitiumTheCat in some social media, I'm a beginner
   <br/>
   <a href="https://github.com/LuanIllogical/PotionOverhaul"><img src="https://img.shields.io/badge/-Potion%20Overhaul-darkgreen"></a>
   <a href="https://forums.terraria.org/index.php?threads/endless-escapade.98739/"><img src="https://img.shields.io/badge/-Endless%20Escapade-blue"></a>
-  <img src="https://img.shields.io/badge/-And%201%20Other%20Projects-lightgrey">
+  <img src="https://img.shields.io/badge/-And%201%20Other%20Project-lightgrey">
   <br/><br/>
   If you want to contact me, my Discord Tag is ExitiumTheCat#7801, alternatively you can join my <a href="https://discord.gg/2sK62kX">Discord Server</a> <br/><br/>
   <a href="https://luanillogical.github.io/">My WIP Website</a> 
