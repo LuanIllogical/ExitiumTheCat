@@ -1,7 +1,7 @@
 ### Hi there!
 
 <p align="center">
-My name's Luan, also known as ExitiumTheCat in some social media, I'm a beginner programmer focusing mostly on Terraria Plugins and Mods, although I have done some different things like Discord bots, they're not many.<br/><br/>
+My name's Luan, also known as ExitiumTheCat in some social media, I'm a programmer focusing mostly on Terraria Plugins and Mods, although I have done some different things like Discord bots, I'm also preparing to try out small-scale game development.<br/><br/>
   <b>Languages I've used:</b><br>
   <br/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -13,7 +13,7 @@ My name's Luan, also known as ExitiumTheCat in some social media, I'm a beginner
   <a href="https://forums.terraria.org/index.php?threads/endless-escapade.98739/"><img src="https://img.shields.io/badge/-Endless%20Escapade-blue"></a>
   <img src="https://img.shields.io/badge/-And%201%20Other%20Project-lightgrey">
   <br/><br/>
-  If you want to contact me, my Discord Tag is ExitiumTheCat#7801, alternatively you can join my <a href="https://discord.gg/2sK62kX">Discord Server</a> <br/><br/>
+  If you want to contact me, my Discord Tag is ExitiumTheCat#7801, alternatively you can join my <a href="https://discord.gg/2sK62kX">Discord Server</a> or email me at luanillogical@gmail.com (although do know that I don't check it often).<br/><br/>
   <a href="https://luanillogical.github.io/">My WIP Website</a> 
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=LuanIllogical&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats">
