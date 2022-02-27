@@ -14,7 +14,7 @@ My name's Luan, also known as ExitiumTheCat in some social media, I'm a programm
   <a href="https://forums.terraria.org/index.php?threads/endless-escapade.98739/"><img src="https://img.shields.io/badge/-Endless%20Escapade-blue"></a>
   <img src="https://img.shields.io/badge/-And%201%20Other%20Project-lightgrey">
   <br/><br/>
-  If you want to contact me, my Discord Tag is ExitiumTheCat#7801, alternatively you can join my <a href="https://discord.gg/2sK62kX">Discord Server</a> or email me at luanillogical@gmail.com (although do know that I don't check it often).<br/><br/>
+  If you want to contact me, my Discord Tag is ExitiumTheCat#7801, alternatively you can email me at luanillogical@gmail.com (although do know that I don't check it often).<br/><br/>
   <a href="https://luanillogical.github.io/">My WIP Website</a> 
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=LuanIllogical&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats">
