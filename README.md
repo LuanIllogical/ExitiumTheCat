@@ -1,6 +1,8 @@
 <h2 align="center">Hi there!</h1>
 
 <p align="center">
+WARNING: This is outdated but I'll only update it once I release the first version of my new project, reason is because I'm lazy
+
 My name's Luan, also known as ExitiumTheCat in some social media, I'm a programmer focusing mostly on Terraria Plugins and Mods, although I have done some different things like Discord bots, I'm also preparing to try out small-scale game development.<br/>
 </p>
   <h3 align="center">Languages I've used:</h3>
