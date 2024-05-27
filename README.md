@@ -7,6 +7,7 @@ Descrição em português.<br/>
   <h3 align="center">Languages I've used / Linguagens que eu já usei</h3>
   <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
   <br/>
   <h3 align="center">Currently working on / Atualmente trabalhando em</h3>
